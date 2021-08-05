@@ -1,0 +1,33 @@
+body {
+    background-image: url("./Assets/abstract-php-c-analytics.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+
+#projects {
+    background-image: url("./Assets/Project.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: auto;
+    height: auto;
+
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 50;
+    font-weight: bold;
+
+}
+
+.projects {
+    position: relative;
+    right: 150em;
+
+
+}
